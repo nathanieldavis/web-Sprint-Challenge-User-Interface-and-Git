@@ -203,6 +203,10 @@ header .text-container {
 	justify-content: space-around;
 }
 
+.about-bottom-content {
+	padding: 2% 2%;
+}
+
 /* CARD COMPONENT */
 .about-card {
 	padding-bottom: 3%;
