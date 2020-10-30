@@ -144,3 +144,16 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5% 0%;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333333;
+    padding-top: 2%;
+}
