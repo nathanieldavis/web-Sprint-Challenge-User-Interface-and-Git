@@ -194,5 +194,36 @@ nav a {
 /* ABOUT PAGE */
 header .text-container {
 	padding: 2% 2%;
-	border-bottom: 1px dotted #333333;
+	border-bottom: 1px dashed gray;
+}
+
+.about-middle-content {
+	display: flex;
+	margin: 2% 2%;
+	justify-content: space-around;
+}
+
+/* CARD COMPONENT */
+.about-card {
+	padding-bottom: 3%;
+	margin: 2% 2%;
+	border-bottom: 1px dashed gray;
+}
+
+.about-card img {
+	margin-bottom: 10px;
+}
+
+.about-card p {
+	margin-bottom: 20px;
+}
+
+.about-card a {
+	padding: 1% 3%;
+	border: 2px solid #000;
+	color: black;
+	border-radius: 8px;
+	margin: 2% 0%;
+	cursor: pointer;
+	text-decoration: none;
 }
