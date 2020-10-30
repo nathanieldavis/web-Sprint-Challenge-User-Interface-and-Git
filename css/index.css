@@ -190,3 +190,9 @@ nav a {
 .box-10 {
   background-color:dodgerblue;
 }
+
+/* ABOUT PAGE */
+header .text-container {
+	padding: 2% 2%;
+	border-bottom: 1px dotted #333333;
+}
